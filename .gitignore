@@ -1,0 +1,19 @@
+# Build artifacts
+sfml_test
+*.o
+*.exe
+
+# CMake build directory
+build/
+cmake-build-*/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
